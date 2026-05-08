@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
+from constraint import Problem    
 
 # 1. Setup the Regions and Adjacency
 regions = ['WA', 'NA', 'SA', 'QLD', 'NSW']
